@@ -107,8 +107,8 @@ This dataset contains various attributes related to patients' health, including 
 
 ## How to Use
 
-1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/your-username/heart-disease-prediction.git`.
-2. **Navigate to Repository**: `cd heart-disease-prediction`.
+1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/shubh1777/Heart-Disease-Prediction.git`.
+2. **Navigate to Repository**: `cd Heart-Disease-Prediction`.
 
 
 3. **Create Virtual Environment (Optional)**: Create a virtual environment using `virtualenv venv` and activate it (commands may vary based on your OS).
