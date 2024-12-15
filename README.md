@@ -112,7 +112,7 @@ This dataset contains various attributes related to patients' health, including 
 
 
 3. **Create Virtual Environment (Optional)**: Create a virtual environment using `virtualenv venv` and activate it (commands may vary based on your OS).
-4. **Install Dependencies**: Install the required packages using `pip install -r requirements.txt`.
+4. **Install Dependencies**
 5. **Explore Notebooks**: Use Jupyter notebooks in the `notebooks` folder for data exploration, preprocessing, model training, and evaluation.
 6. **Run Python Scripts**: Utilize Python scripts in the `src` folder for specific tasks (e.g., data loading, preprocessing, modeling).
 7. **Experiment and Contribute**: Feel free to experiment with different models and techniques. Contributions and improvements are welcome!
